@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Расписание</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- LISTING FROM BOOK -->
+    <string name="NGTU">Нижегородский Государственый Технический Университет</string>
+    <string name="title_activity_home">BaseActivity</string>
+    <string name="NGTUd">им. Р.Е.Алексеева</string>
+    <string name="kaf">Кафедра ГИС</string>
+    <string name="faculty">ИРИТ</string>
+    <string name="schedule">Расписание</string>
+    <string name="select_group">Выбрать группу</string>
+    <string name="notify">Уведомления</string>
+    <string name="message">Написать преподавателю</string>
+    <string name="share">Поделиться</string>
+    <string name="info">Об университете</string>
+    <string name="groups">Группы</string>
+    <string name="comms">Связь</string>
+</resources>

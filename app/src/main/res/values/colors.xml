@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colordarkWhite">#e4e4e4</color>
+    <color name="colorTrackTint">#6a75b6</color>
+    <color name="colorSWoff">#818181</color>
+    <color name="colorTrackTintOff">#303F9F</color>
+    <color name="colorBlacklight">#2e2e2e</color>
+    <color name="colorHeader">#3ba4e1</color>
+</resources>

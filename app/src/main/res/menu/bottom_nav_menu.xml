@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bnv_group"
+        android:title="@string/groups"
+        android:icon="@drawable/ic_view_list_black_24dp" />
+    <item android:id="@+id/bnv_notifications"
+        android:title="@string/notify"
+        android:icon="@drawable/ic_notifications_active_black_24dp" />
+    <item android:id="@+id/bnv_schedule"
+        android:title="@string/schedule"
+        android:icon="@drawable/ic_access_time_black_24dp" />
+    <item android:id="@+id/bnv_message"
+        android:title="@string/comms"
+        android:icon="@drawable/ic_email_black_24dp" />
+    <item android:id="@+id/bnv_share"
+        android:title="@string/share"
+        android:icon="@drawable/ic_share_black_24dp" />
+</menu>
