@@ -21,7 +21,8 @@ public class TabPagerAdapter extends FragmentPagerAdapter{
                 "СР",
                 "ЧТ",
                 "ПТ",
-                "СБ"
+                "СБ",
+                "ВС"
         };
     }
 
@@ -44,6 +45,8 @@ public class TabPagerAdapter extends FragmentPagerAdapter{
             case 4:
                 return MondayFragment.getInstance();
             case 5:
+                return MondayFragment.getInstance();
+            case 6:
                 return MondayFragment.getInstance();
         }
 
